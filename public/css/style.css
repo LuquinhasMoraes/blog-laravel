@@ -1,0 +1,15 @@
+.float-buttom {
+    position: fixed;
+    right: 20px;
+    bottom: 50px;
+    padding: 15px;
+    text-align: center;
+    font-size: 1.3em;
+    width: 60px;
+    height: 60px;
+    background: #FFFFFF;
+    color: #00c4a7;
+    border-radius: 30px;
+    box-shadow: 0 3px 5px 0 rgba(0,0,0,.4), inset 0px -3px 1px 1px rgba(161, 161, 161, 0.5);
+}
+
